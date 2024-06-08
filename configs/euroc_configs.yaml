@@ -1,0 +1,21 @@
+# 原始数据路径（相对于工程目录）
+# train: MH_01_easy MH_03_medium MH_05_difficult V1_02_medium V2_01_easy V2_03_difficult
+# val: MH_02_easy MH_04_difficult V1_01_easy V1_03_difficult V2_02_medium
+# relative_data_path: [MH_01_easy, MH_03_medium, MH_05_difficult, V1_02_medium, V2_01_easy, V2_03_difficult]
+relative_data_path: [MH_01_easy]
+
+size_set_list: [600]
+# size_set_list: [225, 400, 625, 1225, 1600, 2025, 2500, 3025, 3600]
+
+# MH_01_easy
+# MH_02_easy
+# MH_03_medium
+# MH_04_difficult
+# MH_05_difficult
+# V1_01_easy
+# V1_02_medium
+# V1_03_difficult
+# V2_01_easy
+# V2_02_medium
+# V2_03_difficult
+
