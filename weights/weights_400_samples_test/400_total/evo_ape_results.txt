@@ -1,0 +1,55 @@
+MH_02_easyAPE w.r.t. rotation angle in degrees (deg)
+(not aligned)
+
+       max	0.915396
+      mean	0.571760
+    median	0.574855
+       min	0.000000
+      rmse	0.623037
+       sse	11642.155246
+       std	0.247519
+
+MH_04_difficultAPE w.r.t. rotation angle in degrees (deg)
+(not aligned)
+
+       max	0.922835
+      mean	0.554766
+    median	0.584995
+       min	0.000000
+      rmse	0.603468
+       sse	7193.522514
+       std	0.237504
+
+V1_01_easyAPE w.r.t. rotation angle in degrees (deg)
+(not aligned)
+
+       max	5.018392
+      mean	2.057501
+    median	1.650862
+       min	0.000000
+      rmse	2.437516
+       sse	170591.928753
+       std	1.306972
+
+V1_03_difficultAPE w.r.t. rotation angle in degrees (deg)
+(not aligned)
+
+       max	1.870756
+      mean	0.769861
+    median	0.733870
+       min	0.000000
+      rmse	0.852559
+       sse	15214.554700
+       std	0.366293
+
+V2_02_mediumAPE w.r.t. rotation angle in degrees (deg)
+(not aligned)
+
+       max	1.748474
+      mean	0.831374
+    median	0.858630
+       min	0.000000
+      rmse	0.936481
+       sse	20250.716431
+       std	0.431061
+
